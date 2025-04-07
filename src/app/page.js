@@ -89,9 +89,9 @@ export default function Portfolio() {
         <h1 className="text-4xl font-bold">Abdullah Kheder</h1>
         <p className="text-lg text-gray-600 mt-2">Flutter Developer</p>
         <p className="mt-4 max-w-xl mx-auto">
-          I'm a Flutter developer from Syria, currently based in Lebanon, with a
-          passion for mobile development using Flutter and React Native. I love
-          turning ideas into functional experiences through code.
+          I&apos;m a Flutter developer from Syria, currently based in Lebanon,
+          with a passion for mobile development using Flutter and React Native.
+          I love turning ideas into functional experiences through code.
         </p>
         <div className="flex justify-center gap-4 mt-4">
           <Button asChild variant="outline">
